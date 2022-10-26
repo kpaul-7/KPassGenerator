@@ -1,0 +1,42 @@
+.Generator {
+  margin-top: 1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Generator input,
+.Generator button {
+  padding: 0.3em 0.4em;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.copyButton {
+  background-color: #3d8361;
+  border: none;
+  color: #eef2e6;
+  padding: 0.3em 1em !important;
+  border-radius: 0 8px 8px 0;
+}
+
+.Generator input {
+  border: none;
+  border-bottom: 1px #3d8361 solid;
+  color: #ff1e00;
+}
+
+.Generator button:hover {
+  cursor: pointer;
+  background-color: #59ce8f !important;
+}
+
+#action {
+  margin-top: 1em;
+  background-color: #3d8361;
+  border: none;
+  color: #eef2e6;
+  border-radius: 8px;
+  font-size: 1.2em;
+  padding: 0.5em 1em;
+}
