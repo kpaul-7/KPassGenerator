@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KPassGenerator/static/css/main.40da38c7.css",
+    "main.js": "/KPassGenerator/static/js/main.aa908434.js",
+    "static/js/787.88bfb74c.chunk.js": "/KPassGenerator/static/js/787.88bfb74c.chunk.js",
+    "index.html": "/KPassGenerator/index.html",
+    "main.40da38c7.css.map": "/KPassGenerator/static/css/main.40da38c7.css.map",
+    "main.aa908434.js.map": "/KPassGenerator/static/js/main.aa908434.js.map",
+    "787.88bfb74c.chunk.js.map": "/KPassGenerator/static/js/787.88bfb74c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40da38c7.css",
+    "static/js/main.aa908434.js"
+  ]
+}
